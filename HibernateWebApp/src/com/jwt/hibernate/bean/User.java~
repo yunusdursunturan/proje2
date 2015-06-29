@@ -55,8 +55,5 @@ public class User {
     public void setCity(String city) {
         this.city = city;
     }
-public String toString(){
-	return "null";
-}
  
 }
